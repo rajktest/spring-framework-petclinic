@@ -9,8 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '0cb33972-c4be-4a29-a029-b52afda5930c'
-  
+  azureSubscription: 'c8d1e8f4-3147-4ef0-9185-68b60a3427bb'
   # Web app name
   webAppName: 'rajk-web-app'
 
